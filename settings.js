@@ -15,13 +15,13 @@ actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of 
 global.headerText = "Anya by Pika" // text for header of menu //        
      
              //-------------👑Owner & vcard 👑----------\\             
-             global.ownernumber = ['918811074852']   // Owner number //
-             global.vcardowner = ['918811074852']   // vcard owner number //
-             global.ownername = "3.69_Pika"   // Owner name //
+             global.ownernumber = ['923099809063']   // Owner number //
+             global.vcardowner = ['9231370466']   // vcard owner number //
+             global.ownername = "3.69_AMaN siyal"   // Owner name //
              global.ytname = "YT: ONYXPIKA"   // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4"   // Github or insta name //
              global.location = "India, Assam, Dibrugarh"   // Location //
-             global.owner = ['918811074852','917355622763','919673141317']
+             global.owner = ['+923006586907','917355622763','919673141317']
              global.ownertag = '918811074852'  // Tag number //
              global.linkz = "https://wa.me/+918811074852"  // Theme url which will be displayed on whatsapp //
              global.premium = ['918811074852']  // premium numbers //             
